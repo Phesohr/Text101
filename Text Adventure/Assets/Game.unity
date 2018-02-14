@@ -393,7 +393,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1.5, y: -83.75}
+  m_AnchoredPosition: {x: 0, y: -76.25}
   m_SizeDelta: {x: 510, y: 296.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &628535985
@@ -417,7 +417,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 32
+    m_FontSize: 20
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -428,7 +428,6 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Infus mon vindem con vindum
 --- !u!222 &628535986
 CanvasRenderer:
   m_ObjectHideFlags: 0
